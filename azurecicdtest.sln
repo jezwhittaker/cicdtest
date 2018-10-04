@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azurecicdtest", "azurecicdtest\azurecicdtest.csproj", "{0BA291A9-AEFA-4379-A1AF-CB21DA7D91A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA291A9-AEFA-4379-A1AF-CB21DA7D91A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA291A9-AEFA-4379-A1AF-CB21DA7D91A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA291A9-AEFA-4379-A1AF-CB21DA7D91A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA291A9-AEFA-4379-A1AF-CB21DA7D91A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F9308DF-134E-4BE3-BF16-10DDE10F7C9D}
+	EndGlobalSection
+EndGlobal
